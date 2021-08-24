@@ -1,0 +1,3 @@
+ERM
+1. Merekap data lengkap pegawai
+2. membuat alur sistem
